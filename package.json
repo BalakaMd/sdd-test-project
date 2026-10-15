@@ -1,0 +1,6 @@
+{
+  "name": "sdd-test-project",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
